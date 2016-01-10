@@ -1,0 +1,19 @@
+DROP TABLE IF EXISTS expense;
+
+DROP TABLE IF EXISTS inflow;
+
+DROP TABLE IF EXISTS deposit;
+
+DROP TABLE IF EXISTS shopping_product;
+
+DROP TABLE IF EXISTS product;
+
+DROP TABLE IF EXISTS subcategory;
+
+DROP TABLE IF EXISTS category;
+
+DROP TABLE IF EXISTS shopping;
+
+DROP TABLE IF EXISTS shop;
+
+DROP TABLE IF EXISTS person;
